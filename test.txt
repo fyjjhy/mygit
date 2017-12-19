@@ -1,6 +1,0 @@
-Git is a distributed version control system.
-Git is a free software.
-Git is a operation system.
-Git is operation for fyj.
-Git is a tools.
-Boss is going on load. 

@@ -1,5 +1,5 @@
 Git is a distributed version control system.
-Git is a free software too.
+Git is free software too.
 Git is a operation system.
 Git is operation for fyj.
 fyj.
